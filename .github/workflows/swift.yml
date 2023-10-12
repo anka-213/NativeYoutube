@@ -17,3 +17,7 @@ jobs:
       run: swift package init --type executable
     - name: Run tests
       run: swift test -v
+    - name: Build 2
+      run: swift build
+    - name: Upload artifact
+      run: ls -R
