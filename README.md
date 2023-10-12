@@ -19,7 +19,7 @@
 </div>
 
 ## Requirements:
-- MacOS 13.0 or above
+- MacOS 10.15 or above
 - *A working google account*
 
 ## Usage
